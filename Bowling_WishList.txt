@@ -1,0 +1,4 @@
+I am very new to Touch Designer and I appreciate any help. I have figured out how my UI buttons can start and stop my videos. However, what I would prefer, is to not have the videos be visible, until the corresponding buttons are clicked. Then, I want the videos to play at full screen. After they have finished, I want them to disappear, in order to reveal the UI screen again. 
+
+Once this is accomplished, I’d like to figure out how to assign a unique number to each video that is played, and have these numbers added together, like a score, then displayed as text on screen.
+
